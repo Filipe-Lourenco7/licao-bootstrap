@@ -1,2 +1,2 @@
 # module3-solution
-Lição do curso da Coursera!
+Lição realizada pela Coursera, onde aplicamos bootstrap com intuito de facilitar na hora de programar em CSS. 
